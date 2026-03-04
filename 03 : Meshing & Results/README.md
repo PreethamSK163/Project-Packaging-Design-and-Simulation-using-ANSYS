@@ -30,27 +30,27 @@ Visualized the temperature field plot across the full package — identifying ma
 <h2>🖼️ Implementation Results</h2>
 
 ### Meshing & Thermal Analysis Execution
-![1](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_1.png)
-![2](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_2.png)
-![3](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_3.png)
-![4](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_4.png)
-![5](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_5.png)
-![6](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_6.png)
-![7](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_7.png)
-![8](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_8.png)
-![9](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_9.png)
-![10](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_10.png)
-![11](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_11.png)
-![12](4-Meshing%20And%20Running%20The%20Thermal%20Analysis_12.png)
+![1](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_1.png)
+![2](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_2.png)
+![3](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_3.png)
+![4](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_4.png)
+![5](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_5.png)
+![6](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_6.png)
+![7](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_7.png)
+![8](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_8.png)
+![9](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_9.png)
+![10](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_10.png)
+![11](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_11.png)
+![12](1-Meshing%20And%20Running%20The%20Thermal%20Analysis_12.png)
 
 ### Results Visualization & Package Comparison
-![1](5_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_1.png)
-![2](5_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_2.png)
-![3](5_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_3.png)
-![4](5_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_4.png)
-![5](5_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_5.png)
-![6](5_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_6.png)
-![7](5_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_7.png)
+![1](2_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_1.png)
+![2](2_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_2.png)
+![3](2_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_3.png)
+![4](2_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_4.png)
+![5](2_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_5.png)
+![6](2_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_6.png)
+![7](2_Viewing%20Results%20And%20Exploring%20Other%20Package%20Types_7.png)
 
 <h2>🔗 Navigation</h2>
 
