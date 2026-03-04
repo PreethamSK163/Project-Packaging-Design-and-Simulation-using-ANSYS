@@ -1,5 +1,5 @@
 
-# 04 — Package Testing
+# Package Testing
 > Electrical Functionality Testing, Reliability Validation & Performance Qualification
 
 ![Topic](https://img.shields.io/badge/Topic-Package%20Testing-blue)
